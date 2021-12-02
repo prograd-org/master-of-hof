@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.span_item{
+  margin-right: 30px;
+}
+.main-div{
+  text-align: center;
+}
