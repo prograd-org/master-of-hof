@@ -90,3 +90,4 @@ export default class HigherOrderComponent extends Component {
     )
   }
 }
+ 
